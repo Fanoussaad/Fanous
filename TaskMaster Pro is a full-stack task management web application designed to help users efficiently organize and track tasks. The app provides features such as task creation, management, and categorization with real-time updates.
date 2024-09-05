@@ -1,0 +1,10 @@
+https://github.com/Fanoussaad/Fanous.git
+cd taskmaster-pro
+cd backend
+npm install
+MONGO_URI=<>
+JWT_SECRET=<>
+cd backend
+npm start
+cd frontend
+npm start
